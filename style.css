@@ -1,0 +1,19 @@
+#pos{
+    border-radius: 30px;
+    height: 70%;
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 50px;
+}
+a:link{
+    font-size: 25px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+#id1{
+    color: #fff;
+    
+}
+#id1:hover{
+    color: #E50914;
+}
